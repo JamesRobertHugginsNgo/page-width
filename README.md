@@ -1,7 +1,7 @@
 # page-width
 
 - [Boilerplate](src/style.css)
-- [Sample Page](src/sample.html)
+- [Sample Page](sample/sample.html)
 
 ## Github Links
 
