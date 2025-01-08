@@ -3,7 +3,7 @@
 - [Boilerplate](src/style.css)
 - [Sample Page](sample/sample.html)
 
-## Github Links
+## Alternate Views
 
-- [Repo](https://github.com/JamesRobertHugginsNgo/page-width)
-- [Page](https://jamesroberthugginsngo.github.io/page-width/)
+- [View in github](https://github.com/JamesRobertHugginsNgo/page-width)
+- [View in github page](https://jamesroberthugginsngo.github.io/page-width/)
